@@ -10,6 +10,11 @@
 		<class>com.matoosfe.sisfac.entidad.Factura</class>
 		<class>com.matoosfe.sisfac.entidad.Producto</class>
 		<class>com.matoosfe.sisfac.entidad.TipoProducto</class>
+		<class>com.matoosfe.sisfac.entidad.Menu</class>
+		<class>com.matoosfe.sisfac.entidad.Permiso</class>
+		<class>com.matoosfe.sisfac.entidad.Rol</class>
+		<class>com.matoosfe.sisfac.entidad.Usuario</class>
+		<class>com.matoosfe.sisfac.entidad.PermisoPK</class>
 		<properties>
 			<property name="eclipselink.logging.level.sql" value="FINE" />
 			<property name="eclipselink.logging.parameters" value="true" />
